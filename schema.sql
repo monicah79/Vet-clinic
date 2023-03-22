@@ -64,3 +64,8 @@ CREATE TABLE visits(
 
 ALTER TABLE visits
 ADD date_of_visit date;
+
+
+-- Database performance audit
+ALTER TABLE owners 
+ADD COLUMN email VARCHAR(120);
