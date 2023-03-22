@@ -1,67 +1,51 @@
-# curriculum-databases-projects-template
-
-> This template should be used for database related projects at Microverse.
-> Generate your own repository, update this README and edit all files content while working on projects. You should not be adding any new files unless asked otherwise.
-
-
-## Getting Started
-
-This repository includes files with plain SQL that can be used to recreate a database:
-
-- Use [schema.sql](./schema.sql) to create all tables.
-- Use [data.sql](./data.sql) to populate tables with sample data.
-- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
-
-<a name="readme-top"></a>
+# Vet Clinic:
+<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ](#faq)
-- [📝 License](#license)
-
+- [� Table of Contents](#-table-of-contents)
+- [📖 Vet Clinic ](#-VetClinic-)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+      - [🔭 Future Features ](#-future-features-)
+  - [🚀 Live Demo ](#-live-demo-)
+  - [🚀 Video Presentation ](#-Video-Project-Presentation-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Setup](#setup)
+    - [Install](#install)
+    - [Usage](#usage)
+    - [Testing](#testing)
+    - [Deployment](#deployment)
+  - [👥 Author](#-author)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [❓ FAQ ](#-faq-)
+  - [📝 License ](#-license-)
+  
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Vet-clinic] <a name="about-project"></a>
+# 🥼🩺 [Vet Clinic:] <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a  project where i used a relational database to create the initial data structure for a vet clinic. I created a table to store animals' information, insert some data into it, and query it.
+Vet Clinic Database is relational database creates initial data structure for a vet clinic. It also has a table that store animals' information, insert some data into it, and query it.
 
-## 🛠 Built With <a name="built-with"></a>
+
+
+**[Vet Clinic:: setup]** It is Vet Clinic using PostgreSQL.
+
+## 🛠 Built With <a name="built-with">
+
+PostgreSQL
+
+</a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
 > Describe the tech stack and include only the relevant sections that apply to your project.
 
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
 
 <details>
 <summary>Database</summary>
@@ -74,15 +58,18 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
-- **[created the data base]**
-- **[created table called animals]**
-- **[inserted querries]**
+- Gitflow
+- Linters
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- LIVE DEMO -->
 
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- Under construction
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
@@ -96,78 +83,32 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-<!--
-Example command:
+- [ ]  install PostgreSQL
 
-```sh
- gem install rails
-```
- -->
 
 ### Setup
 
 Clone this repository to your desired folder:
-git clone url
-cd folder
-<!--
-Example commands:
 
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
+- Open the command prompt/terminal and navigate to the created directory.
+
+- On the terminal run this command git clone `https://github.com/AbdifatahYasin1/Vet-clinic.git`
+
+- Go to the repository folder using command prompt
+
 
 ### Install
 
 Install this project with:
 
-<!--
-Example command:
+Cloning steps:
 
-```sh
-  cd my-project
-  gem install
-```
---->
+1. - [ ] Open on the `Terminal`
+2. - [ ] Run `https://github.com/monicah79/Vet-clinic.git`
+3. - [ ] cd Vet-clinic
+4. - [ ] Open in the IDE
+5. - [ ] open with the liver server
 
-### Usage
-
-To run the project, execute the following command:
-
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
-
-### Run tests
-
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
@@ -175,28 +116,22 @@ Example:
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+## Authors
+
+👤 **Abdifatah**
+
+- GitHub: [@AbdifatahYasin1](https://github.com/AbdifatahYasin1)
+- Twitter: [@CabdifataaxYuusuf](https://twitter.com/CabdifataaxYy)
+- LinkedIn: [Cabdifataax Yaasiin](https://www.linkedin.com/in/cabdifataax-yaasiin-69977019a/)
+
+👤 **Monicah**
 
 - GitHub: [@monicah79](https://github.com/monicah79)
 - Twitter: [@MonicahWanjema](https://twitter.com/MonicaWanjema)
 - LinkedIn: [monicah-wanjema](https://www.linkedin.com/in/monicah-wanjema/)
 
-👤 **Author2**
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[add-owners]**
-- [ ] **[add-vetinaries]**
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
@@ -204,17 +139,17 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/monicah79/Vet-clinic/issues/new).
+Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SUPPORT -->
 
-## ⭐️ Show your support <a name="support"></a>
+## Show your support
 
-> Write a message to encourage readers to support your project
+Give a ⭐️ if you like this project!
 
-If you like this project contact me 
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -224,31 +159,20 @@ If you like this project contact me
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank anyone whose code was used 
+-  I would like to thank [Microverse](https://www.microverse.org/) for giving me this opportunity to learn and grow as a developer.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
 
-## ❓ FAQ <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

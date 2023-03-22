@@ -163,3 +163,19 @@ GROUP BY species_name
 ORDER BY species_count DESC
 LIMIT 1;
 
+explain analyze SELECT COUNT(*) FROM visits where animals_id = 4;
+
+explain analyze SELECT COUNT(*) FROM visits where animals_id = 4;
+
+explain analyze SELECT * FROM visits where vets_id = 2;
+
+explain analyze SELECT * FROM owners where email = 'owner_18327@mail.com';
+
+-- after improving executing time
+EXPLAIN ANALYZE SELECT COUNT(*) FROM visits where animals_id = 4;
+CREATE INDEX animals_id_asc ON visits(animals_id ASC);
+
+EXPLAIN ANALYZE SELECT * FROM visits where vets_id = 2;
+CREATE INDEX vets_id_asc on visits(vets_id ASC);
+
+
