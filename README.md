@@ -118,18 +118,17 @@ Cloning steps:
 
 ## Authors
 
-- author: Abdifatah Yasin
+👤 **Abdifatah**
 
 - GitHub: [@AbdifatahYasin1](https://github.com/AbdifatahYasin1)
 - Twitter: [@CabdifataaxYuusuf](https://twitter.com/CabdifataaxYy)
 - LinkedIn: [Cabdifataax Yaasiin](https://www.linkedin.com/in/cabdifataax-yaasiin-69977019a/)
 
-- author: Monicah Wanjema
+👤 **Monicah**
 
 - GitHub: [@monicah79](https://github.com/monicah79)
 - Twitter: [@MonicahWanjema](https://twitter.com/MonicaWanjema)
 - LinkedIn: [monicah-wanjema](https://www.linkedin.com/in/monicah-wanjema/)
-
 
 
 
