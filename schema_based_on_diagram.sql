@@ -50,3 +50,10 @@ CREATE TABLE invoice_items(
     treatment_id int REFERENCES treatments (id),
     INDEX (invoice_id, treatment_id)
 );
+
+CREATE INDEX ON medical_histories (patient_id);
+CREATE INDEX ON invoice_items (invoice_id, treatment_id);
+CREATE INDEX ON treatments_medicacl_histories (medical_history_id, treatment_id);
+
+
+
