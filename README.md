@@ -182,7 +182,9 @@ Example:
 - LinkedIn: [monicah-wanjema](https://www.linkedin.com/in/monicah-wanjema/)
 
 👤 **Author2**
-
+- GitHub: [@AbdifatahYasin1](https://github.com/AbdifatahYasin1)
+- Twitter: [@CabdifataaxYuusuf](https://twitter.com/CabdifataaxYy)
+- LinkedIn: [Cabdifataax Yaasiin](https://www.linkedin.com/in/cabdifataax-yaasiin-69977019a/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
